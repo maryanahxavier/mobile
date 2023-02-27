@@ -1,6 +1,5 @@
 import React from 'react'
 import { View, Text, Button, StyleSheet } from 'react-native'
-import { Options } from 'react-native/Libraries/Utilities/codegenNativeCommands'
 
 interface IToggle{
   label: string
